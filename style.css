@@ -1,0 +1,12 @@
+h1{
+   color: rgba(0, 0, 139, 0.719); 
+}
+.grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+}
